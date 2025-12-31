@@ -1,6 +1,6 @@
 # nekolog
 
-A small, dependency-free logging package for Go providing leveled console output with optional ANSI coloring.
+A small, dependency-free logging package for Go providing leveled console output with (soon) optional ANSI coloring.
 
 ## Features
 
